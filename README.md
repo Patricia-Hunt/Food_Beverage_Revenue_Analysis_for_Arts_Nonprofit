@@ -2,7 +2,7 @@
  
 Turning raw sales data into executive-level insights using SQL and Snowflake.
  
-<img width="1400" height="350" alt="Image" src="https://github.com/user-attachments/assets/e30154b1-c3b9-43df-a250-29b5b0140cd8" />
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/50bc2c98-ba3a-4632-9cb0-1b35fb827911" />
  
  
 <h2>Project Overview</h2>
